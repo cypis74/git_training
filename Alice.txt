@@ -1,4 +1,8 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 20191026 22:09
+<<<<<<< HEAD
          23:15
          23:50
+=======
+         23:27
+>>>>>>> Reebase
